@@ -6,11 +6,6 @@ Fork of jwt.io that just focuses on the debugger. Forked from [//github.com/json
 
 ## Notes
 
-Build-dev should copy this for me... TODO: Fix that?
-```
-cp -v ./node_modules/bootstrap/dist/css/bootstrap.min.css.map dist/website/css/
-```
-
 Add CSP to csp.map:
 
 ```

@@ -37,6 +37,7 @@ module.exports = (grunt) => {
                         flatten: true,
                         src: [
                             "node_modules/bootstrap/dist/css/bootstrap.min.css",
+                            "node_modules/bootstrap/dist/css/bootstrap.min.css.map",
                             "node_modules/codemirror/lib/codemirror.css",
                             "node_modules/codemirror/addon/lint/lint.css",
                             "css/google-roboto-mono.css",
